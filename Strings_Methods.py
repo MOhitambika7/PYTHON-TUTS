@@ -14,3 +14,9 @@ Result = STRINGS.isdigit()
 print(Result)
 Result = STRINGS.isalpha()
 print(Result)
+
+phone_number = input("Enter the phone number:- ")
+result = phone_number.count("-")
+print(result)
+
+
