@@ -17,3 +17,4 @@ else:
     print(f"Welcome {username}")    
     
 #Use of the negetive index starts from last(i.e -1 ----> last digit.)    
+#Use of the step i.e(:: 2 )-------> will print every digit escaping 2 digits from between.
