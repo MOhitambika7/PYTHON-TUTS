@@ -15,3 +15,5 @@ elif not username.isalpha():
             
 else:
     print(f"Welcome {username}")    
+    
+#Use of the negetive index starts from last(i.e -1 ----> last digit.)    
