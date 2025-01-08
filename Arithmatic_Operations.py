@@ -39,8 +39,8 @@ print(sqrt)
 
 S = 9.5
 ceiling = math.ceil(S) # This ceilling function round off the number to the up.
-print(S)
+print(ceiling)
 
 F = 9.6
 floor = math.floor(F) # This floor function will round off the numbr to the down.
-print(F)
+print(floor)
